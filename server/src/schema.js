@@ -13,7 +13,7 @@ const typeDefs = gql`
     "the track's main author"
     author: Author!
     "the tracks' main illustration to dispay in track card or track page detail"
-    thumbnaill: String
+    thumbnail: String
     "the the tracks' approximate length to complete, in minutes"
     length: Int
     "the number of modules this track contains"
